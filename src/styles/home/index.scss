@@ -1,0 +1,4 @@
+.text{
+  @include line-text-overflow();
+  width: 200px;
+}
